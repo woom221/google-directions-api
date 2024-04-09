@@ -9,6 +9,6 @@ You must obtain API key from [https://cloud.google.com/](https://cloud.google.co
 
 ## Input Data Format
 
-You can either put string address or latitude and Longitude pair to represent the addresses.
+You can either put string address or Latitude and Longitude pair to represent the addresses (see the example csv file).
 
 You may input as many data as you want below origins and destinations to have pair-wise duration and route calculation. However, please be aware of the Google's payment policies regarding the API usage. 
